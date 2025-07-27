@@ -1,0 +1,415 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="823px" height="923px" viewBox="-0.5 -0.5 823 923" content="&lt;mxfile&gt;&lt;diagram name=&quot;Helios Architecture&quot; id=&quot;helios-arch-full&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g>
+            <rect x="0" y="230" width="774" height="684" fill="#fff2cc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="576.5">
+                    (数据主干网: 非对称RoCE - Controller[10x], Agent[1x] - L3读/GDR协调)
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 387 60 L 387 83.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 387 88.88 L 383.5 81.88 L 387 83.63 L 390.5 81.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 487 30 L 515.63 30" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 520.88 30 L 513.88 33.5 L 515.63 30 L 513.88 26.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="287" y="0" width="200" height="60" rx="9" ry="9" fill="#dae8fc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="34.5">
+                    Web UI / API
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 387 200 L 387 223.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 387 228.88 L 383.5 221.88 L 387 223.63 L 390.5 221.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 112 113 L 112 90 L 662 90 L 662 113" fill="#e1d5e7" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 112 113 L 112 200 L 662 200 L 662 113" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 112 113 L 662 113" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" font-weight="bold" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="106">
+                    Helios Controller (x86)
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="132" y="130" width="150" height="50" rx="7.5" ry="7.5" fill="#fff2cc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="206.5" y="152.5">
+                    调度器/策略引擎
+                </text>
+                <text x="206.5" y="166.5">
+                    Scheduler / Policy Engine
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="312" y="130" width="150" height="50" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(213, 232, 212), rgb(31, 47, 30)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="152.5">
+                    模型/数据元数据中心
+                </text>
+                <text x="386.5" y="166.5">
+                    Metadata Database
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="492" y="130" width="150" height="50" rx="7.5" ry="7.5" fill="#f8cecc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(248, 206, 204), rgb(81, 45, 43)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="566.5" y="152.5">
+                    L3 共享缓存 (读取密集)
+                </text>
+                <text x="566.5" y="166.5">
+                    L3 Shared Cache
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 387 290 L 387 236.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 387 231.12 L 390.5 238.12 L 387 236.37 L 383.5 238.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 67 313 L 67 290 L 707 290 L 707 313" fill="#f5f5f5" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(245, 245, 245), rgb(26, 26, 26)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 67 313 L 67 560 L 707 560 L 707 313" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 67 313 L 707 313" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" font-weight="bold" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="306">
+                    AC922 Server 2
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="327" y="330" width="120" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="354.5">
+                    Helios Agent CLI
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 92 343 L 92 320 L 312 320 L 312 343" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 92 343 L 92 540 L 312 540 L 312 343" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 92 343 L 312 343" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" font-weight="bold" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="336">
+                    NUMA 0 Container
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="122" y="350" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="374.5">
+                    Megatron-LM #0
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="122" y="400" width="160" height="30" rx="4.5" ry="4.5" fill="#b0e3e6" stroke="#0e8088" pointer-events="all" style="fill: light-dark(rgb(176, 227, 230), rgb(16, 60, 63)); stroke: light-dark(rgb(14, 128, 136), rgb(70, 168, 175));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="419.5">
+                    L2: Host Memory
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="122" y="440" width="160" height="30" rx="4.5" ry="4.5" fill="#f8cecc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(248, 206, 204), rgb(81, 45, 43)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="459.5">
+                    L1: GPU VRAM
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="112" y="480" width="180" height="50" rx="7.5" ry="7.5" fill="#e1d5e7" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="509.5">
+                    数据迁移网 BF2 200G QSFP
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 462 343 L 462 320 L 682 320 L 682 343" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 462 343 L 462 540 L 682 540 L 682 343" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 462 343 L 682 343" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" font-weight="bold" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="336">
+                    NUMA 1 Container
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="492" y="350" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="374.5">
+                    Megatron-LM #1
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="492" y="400" width="160" height="30" rx="4.5" ry="4.5" fill="#b0e3e6" stroke="#0e8088" pointer-events="all" style="fill: light-dark(rgb(176, 227, 230), rgb(16, 60, 63)); stroke: light-dark(rgb(14, 128, 136), rgb(70, 168, 175));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="419.5">
+                    L2: Host Memory
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="492" y="440" width="160" height="30" rx="4.5" ry="4.5" fill="#f8cecc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(248, 206, 204), rgb(81, 45, 43)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="459.5">
+                    L1: GPU VRAM
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="482" y="480" width="180" height="50" rx="7.5" ry="7.5" fill="#e1d5e7" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="509.5">
+                    数据迁移网 BF2 200G QSFP
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 342 485.4 L 318.37 485.08" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 313.12 485.01 L 320.16 481.61 L 318.37 485.08 L 320.07 488.61 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 432 485.4 L 455.63 485.08" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 460.88 485.01 L 453.93 488.61 L 455.63 485.08 L 453.84 481.61 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="342" y="456" width="90" height="60" rx="9" ry="9" fill="#1ba1e2" stroke="#006eaf" pointer-events="all" style="fill: light-dark(rgb(27, 161, 226), rgb(25, 140, 196)); stroke: light-dark(rgb(0, 110, 175), rgb(81, 175, 231));"/>
+        </g>
+        <g>
+            <g fill="#ffffff" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));">
+                <text x="386.5" y="490.5">
+                    X-Bus Internal
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 642 30 L 804 30 Q 814 30 814 40 L 814 415 Q 814 425 804 425 L 713.37 425" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 708.12 425 L 715.12 421.5 L 713.37 425 L 715.12 428.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 642 30 L 804 30 Q 814 30 814 40 L 814 709 Q 814 719 804 719 L 713.37 719" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 708.12 719 L 715.12 715.5 L 713.37 719 L 715.12 722.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="522" y="10" width="120" height="40" fill="#fff2cc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="581.5" y="27.5">
+                    管理网络: 2.5G
+                </text>
+                <text x="581.5" y="41.5">
+                    RJ45 - 心跳/遥测
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 387 854 L 387 907.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 387 912.88 L 383.5 905.88 L 387 907.63 L 390.5 905.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 67 607 L 67 584 L 707 584 L 707 607" fill="#f5f5f5" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(245, 245, 245), rgb(26, 26, 26)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 67 607 L 67 854 L 707 854 L 707 607" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 67 607 L 707 607" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" font-weight="bold" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="600">
+                    AC922 Server 2
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="327" y="624" width="120" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="386.5" y="648.5">
+                    Helios Agent CLI
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 92 637 L 92 614 L 312 614 L 312 637" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 92 637 L 92 834 L 312 834 L 312 637" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 92 637 L 312 637" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" font-weight="bold" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="630">
+                    NUMA 0 Container
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="122" y="644" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="668.5">
+                    Megatron-LM #0
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="122" y="694" width="160" height="30" rx="4.5" ry="4.5" fill="#b0e3e6" stroke="#0e8088" pointer-events="all" style="fill: light-dark(rgb(176, 227, 230), rgb(16, 60, 63)); stroke: light-dark(rgb(14, 128, 136), rgb(70, 168, 175));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="713.5">
+                    L2: Host Memory
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="122" y="734" width="160" height="30" rx="4.5" ry="4.5" fill="#f8cecc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(248, 206, 204), rgb(81, 45, 43)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="753.5">
+                    L1: GPU VRAM
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="112" y="774" width="180" height="50" rx="7.5" ry="7.5" fill="#e1d5e7" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="201.5" y="803.5">
+                    数据迁移网 BF2 200G QSFP
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 462 637 L 462 614 L 682 614 L 682 637" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 462 637 L 462 834 L 682 834 L 682 637" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 462 637 L 682 637" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" font-weight="bold" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="630">
+                    NUMA 1 Container
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="492" y="644" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(218, 232, 252), rgb(29, 41, 59)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="668.5">
+                    Megatron-LM #1
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="492" y="694" width="160" height="30" rx="4.5" ry="4.5" fill="#b0e3e6" stroke="#0e8088" pointer-events="all" style="fill: light-dark(rgb(176, 227, 230), rgb(16, 60, 63)); stroke: light-dark(rgb(14, 128, 136), rgb(70, 168, 175));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="713.5">
+                    L2: Host Memory
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="492" y="734" width="160" height="30" rx="4.5" ry="4.5" fill="#f8cecc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(248, 206, 204), rgb(81, 45, 43)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="753.5">
+                    L1: GPU VRAM
+                </text>
+            </g>
+        </g>
+        <g>
+            <rect x="482" y="774" width="180" height="50" rx="7.5" ry="7.5" fill="#e1d5e7" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(225, 213, 231), rgb(57, 47, 63)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="571.5" y="803.5">
+                    数据迁移网 BF2 200G QSFP
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 342 779.4 L 318.37 779.08" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 313.12 779.01 L 320.16 775.61 L 318.37 779.08 L 320.07 782.61 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 432 779.4 L 455.63 779.08" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 460.88 779.01 L 453.93 782.61 L 455.63 779.08 L 453.84 775.61 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="342" y="750" width="90" height="60" rx="9" ry="9" fill="#1ba1e2" stroke="#006eaf" pointer-events="all" style="fill: light-dark(rgb(27, 161, 226), rgb(25, 140, 196)); stroke: light-dark(rgb(0, 110, 175), rgb(81, 175, 231));"/>
+        </g>
+        <g>
+            <g fill="#ffffff" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));">
+                <text x="386.5" y="784.5">
+                    X-Bus Internal
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 105.63 505 L 50 505 Q 40 505 40 515 L 40 790 Q 40 800 50 800 L 105.63 800" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 110.88 505 L 103.88 508.5 L 105.63 505 L 103.88 501.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 110.88 800 L 103.88 803.5 L 105.63 800 L 103.88 796.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 668.37 799 L 724 799 Q 734 799 734 789 L 734 515 Q 734 505 724 505 L 668.37 505" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 663.12 799 L 670.12 795.5 L 668.37 799 L 670.12 802.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 663.12 505 L 670.12 501.5 L 668.37 505 L 670.12 508.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+    </g>
+</svg>
