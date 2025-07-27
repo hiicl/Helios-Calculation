@@ -100,12 +100,14 @@ graph TB
 
 - **最后访问时间 (last_access)**: 记录分片最后一次被访问的Unix时间戳
 - **热力评分 (HeatScore)**: 统一评分机制，计算公式：  
-  \( \text{HeatScore} = \alpha \cdot \frac{N_i}{T} + \beta \cdot e^{-\frac{t_{\text{now}} - t_{\text{last}}}{\tau}} \)  
-  其中：
-  - \( N_i \): 时间窗口T内的访问次数
-  - \( T \): 统计窗口(默认300秒)
-  - \( \tau \): 时间衰减常数(默认120秒)
-  - \( \alpha, \beta \): 权重系数(默认0.7, 0.3)
+  $$
+  \text{HeatScore} = \alpha \cdot \frac{N_i}{T} + \beta \cdot e^{-\frac{(t_{\text{now}} - t_{\text{last}})}{\tau}}
+  $$
+  参数说明：
+  - $N_i$: 时间窗口T内的访问次数
+  - $T$: 统计窗口（默认300秒）
+  - $\tau$: 时间衰减常数（默认120秒）
+  - $\alpha, \beta$: 权重系数（默认0.7, 0.3）
 - **流动性 (Fluidity)**: 记录分片迁移次数
 - **稳定性 (Stability)**: 多维评分(频率×模式×时间)
 
